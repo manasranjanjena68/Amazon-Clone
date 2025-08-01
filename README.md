@@ -17,7 +17,7 @@ This is my first web development project — a simple static clone of Amazon's h
 
 
 
-## 📸 Screenshots
+## 📸 Screenshot of the project
 
 ![Amazon Clone Preview](images/Screenshot.png)
 
